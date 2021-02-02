@@ -1,0 +1,226 @@
+/* Tag Selectors*/
+/*
+body {
+    background-color:#d3e0ea;
+}
+
+h1{
+    color:deepskyblue;
+    font-style: italic;
+}
+
+/* כדי לכתוב הערה צריך סלאש כוכבית ואז לסיים עם כובכבית סלאש
+*/
+
+
+/* Class Selectors */
+
+/*
+.Ben{
+    color: indigo;
+    font-style: normal;
+}
+
+*/
+*/
+
+
+/* ID SELECTORS */
+
+#Text{
+    color:seagreen;
+    font-style: italic;
+}
+
+/* ההבדל בין איידי לקלאס שאיידי יכול להיגדר פעם אחת
+לכל דבר ולכן נשתמש באיידי כאשר זה אלמנט בודד ובקלאס בכמה 
+
+*/
+
+#Text:hover{
+    color: skyblue;
+}
+
+
+
+h1{
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    padding-top: 50px;
+    padding-bottom: 0;
+    color:#66BFBF;
+    line-height: 2;
+}
+.top{
+   background-color: #E4F9F5;
+   position: relative;
+   padding-top: 100px;
+}
+
+.Pro{
+    text-decoration: underline;
+}
+
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Kameron', serif;
+    color: #40514E;
+}
+
+
+.downcloud{
+    position: absolute;
+    bottom: 300px;
+}
+
+.upcloud{
+    position: absolute;
+    margin-left: 150px;
+    top: 50px;
+}
+
+.prog{
+    font-family:'Merriweather', serif;
+    font-weight: normal;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+
+.skill-row{
+    margin: auto;
+    line-height: 2;
+    width: 50%;
+}  
+
+.code{
+    width: 15%;
+    margin: auto;
+}
+
+.Hacker{
+    width: 15%;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.Ben{
+    margin:auto;
+}
+
+.Codingstor{
+    margin-bottom: 20px;
+}
+
+
+#HR{
+    margin-bottom: 50px;
+}
+
+hr{
+    color: #EAF6F6;
+}
+
+.BUTTON_KWV {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Kameron', serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 15px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 70px;
+ }
+ 
+ .BUTTON_KWV:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+
+ a{
+    margin-right: 20px;
+    text-decoration:none;
+    color: #11999E;
+    font-size: 27px;
+}
+
+a:hover{
+    color:white;
+}
+
+#end{
+    color: #EAF6F6;
+    position:static;
+    font-size: 20px;
+    margin: 0;
+}
+
+
+.down{
+    background-color: #66BFBF;
+    position: relative;
+}
+
+
+.Des{
+    color: #40514E;
+    margin-bottom: 54px;
+    width: 30%;
+    margin: auto;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+
+hr{
+    border:dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+#LOL3{
+    width: 40%;
+    margin:40px auto 60px;
+}
